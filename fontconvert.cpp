@@ -14,7 +14,7 @@
 #include <iostream>
 #include <fstream>
 
-#define DPI 100
+#define DPI 72
 
 static std::string toUpperCase(const std::string &s) {
     std::string result = s;
